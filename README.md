@@ -10,7 +10,7 @@ Here are instructions on how to play this game.
 Rules of the game:
 
 * Match cards with identical symbols
-NOTE: The fewer your moves the higher probabilty to gain more stars.
+NOTE: The fewer your moves, the higher probabilty to gain more stars.
 
 If your moves are equal to 16 -  you will get 3 Stars.
 
