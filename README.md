@@ -4,8 +4,7 @@ Here are instructions on how to play this game.
 
 2) Extract the zip file
 
-3) Open index.html in your browser. 
-  - Option 2:  Click on this LINK for the live version of the game .
+3) Launch the index.html file on your browser. Preferably- Chrome
 
 Rules of the game:
 
